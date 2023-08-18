@@ -13,8 +13,21 @@
     .page-nav {
 
     }
+    .logo {
+        font-family: Raleway, sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 21px;
+        letter-spacing: 0.03em;
+        text-align: left;
+    }
     .logo-text {
-
+        font-family: Raleway, sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 21px;
+        letter-spacing: 0.03em;
+        text-align: left;
     }
     .menu {
 
@@ -26,5 +39,11 @@
 
     }
     .adress-item {
-        
+
     }
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 0.03em;
+text-align: left;
