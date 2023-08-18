@@ -7,12 +7,7 @@
     button {
         cursor: pointer;
     }
-    .page-header {
 
-    }
-    .page-nav {
-
-    }
     body{
     font-family: 'Roboto', sans-serif;
     }
@@ -43,21 +38,17 @@
         color: #404bbf;
     }
 
-    .menu {
-
-    }
-
-    .menu-item {
-
-    }
     
+
+    .menu-item,
+    .adress-item {
+color: #2e2f42;
+    }
+
     .adress {
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: left;
-    }
-    .adress-item {
-
     }
