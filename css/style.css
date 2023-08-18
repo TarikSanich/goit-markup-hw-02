@@ -8,10 +8,26 @@
 
     button {
         cursor: pointer;
+        background-color: #4d5ae5;
+        color: #ffffff;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        text-align: left;
+    }
+    button:hover,
+    button:focus{
+        background-color: #404bbf;
     }
 
     body{
-    font-family: 'Roboto', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 24px;
+        letter-spacing: 0.02em;
+        text-align: left;
     }
 
     .logo {
@@ -72,3 +88,42 @@
             letter-spacing: 0.02em;
             text-align: center;
     }
+    
+    .header-2 {
+            font-size: 36px;
+            font-weight: 700;
+            line-height: 1.1;
+            letter-spacing: 0.02em;
+            text-align: center;
+    }
+
+    .header-3 {
+            font-size: 20px;
+            font-weight: 500;
+            line-height: 1.2;
+            letter-spacing: 0.02em;
+            text-align: left;
+    }
+
+
+
+    .logo-footer {
+        font-family: 'Raleway',  sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-align: left;
+        color: #4d5ae5;
+    }
+
+    .logo-text-footer {
+        font-family: Raleway, sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-align: left;
+        color: #f4f4fd;
+    }
+
