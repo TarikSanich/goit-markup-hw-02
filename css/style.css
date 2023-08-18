@@ -34,13 +34,13 @@
         color: #2e2f42;
     }
 
-    .menu-list:hover,
-    .menu-list:focus{
+    .menu:hover,
+    .menu:focus{
         color: #404bbf;
     }
 
-    .menu-list,
-    .adress-list{
+    .menu,
+    .adress{
             font-size: 16px;
             font-weight: 500;
             line-height: 1.5;
@@ -48,8 +48,8 @@
             text-align: left;
     }
 
-    .adress-list:hover,
-    .adress-list:focus{
+    .adress:hover,
+    .adress:focus{
         color: #404bbf;
     }
 
