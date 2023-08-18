@@ -46,6 +46,7 @@
             line-height: 1.5;
             letter-spacing: 0.02em;
             text-align: left;
+            color: #2e2f42
     }
 
     .adress:hover,
@@ -54,11 +55,6 @@
     }
 
     
-
-    .menu-item,
-    .adress-item {
-color: #2e2f42;
-    }
 
     .adress {
     font-size: 16px;
@@ -69,7 +65,7 @@ color: #2e2f42;
     }  
 
     h1{
-
+            color: #ffffff;
             font-size: 56px;
             font-weight: 700;
             line-height: 1.07px;
