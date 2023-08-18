@@ -89,7 +89,7 @@
             text-align: center;
     }
     
-    .header-2 {
+    .h2-section {
             font-size: 36px;
             font-weight: 700;
             line-height: 1.1;
@@ -98,12 +98,18 @@
     }
 
     .header-3 {
+
+    }
+
+    .h3-section2 {
             font-size: 20px;
             font-weight: 500;
             line-height: 1.2;
             letter-spacing: 0.02em;
             text-align: left;
-    }
+     }
+
+
 
 
 
