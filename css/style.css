@@ -1,9 +1,11 @@
 .link {
     text-decoration: none;
     }
+    
     .list {
         list-style-type: none;
     }
+
     button {
         cursor: pointer;
     }
@@ -11,6 +13,7 @@
     body{
     font-family: 'Roboto', sans-serif;
     }
+
     .logo {
         font-family: 'Raleway',  sans-serif;
         font-size: 18px;
@@ -20,6 +23,7 @@
         text-align: left;
         color: #4d5ae5;
     }
+
     .logo-text {
         font-family: Raleway, sans-serif;
         font-size: 18px;
@@ -29,10 +33,21 @@
         text-align: left;
         color: #2e2f42;
     }
+
     .menu-list:hover,
     .menu-list:focus{
         color: #404bbf;
     }
+
+    .menu-list,
+    .adress-list{
+            font-size: 16px;
+            font-weight: 500;
+            line-height: 1,5;
+            letter-spacing: 0.02em;
+            text-align: left;
+    }
+
     .adress-list:hover,
     .adress-list:focus{
         color: #404bbf;
