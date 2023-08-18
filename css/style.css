@@ -34,16 +34,23 @@
         text-align: left;
         color: #2e2f42;
     }
-    .logo-text:hover,
-    .logo-text:focus{
+    .menu-list:hover,
+    .menu-list:focus{
         color: #404bbf;
     }
+    .adress-list:hover,
+    .adress-list:focus{
+        color: #404bbf;
+    }
+
     .menu {
 
     }
+
     .menu-item {
 
     }
+    
     .adress {
     font-size: 16px;
     font-weight: 400;
