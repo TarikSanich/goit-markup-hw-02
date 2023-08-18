@@ -31,6 +31,10 @@
         text-align: left;
         color: #2e2f42;
     }
+    .logo-text:hover,
+    .logo-text:focus{
+        color: #404bbf;
+    }
     .menu {
 
     }
