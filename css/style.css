@@ -14,7 +14,6 @@
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.04em;
-        text-align: left;
     }
     button:hover,
     button:focus{
@@ -81,12 +80,14 @@
     }  
 
     h1{
-            color: #000000;
+            
             font-size: 56px;
             font-weight: 700;
             line-height: 1.07px;
             letter-spacing: 0.02em;
             text-align: center;
+            color: #FFF;
+           
     }
     
     .h2-section {
@@ -108,6 +109,17 @@
             letter-spacing: 0.02em;
             text-align: left;
      }
+
+.section-hero {
+    background-color: #2e2f42;
+    width: 1440px; 
+    height: 600px; 
+    top: 72px;
+}
+
+.item-list-section2 {
+    text-align: center;
+}
 
 
 
@@ -131,5 +143,11 @@
         letter-spacing: 0.03em;
         text-align: left;
         color: #f4f4fd;
+    }
+    .text-footer {
+             color: #F4F4FD;
+    }
+    footer {
+        background-color: #2e2f42;
     }
 
