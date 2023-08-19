@@ -101,7 +101,7 @@
     .header-section {
             font-size: 36px;
             font-weight: 700;
-            line-height: 1.1;
+            line-height: 1.07;
             letter-spacing: 0.02em;
             text-align: center;
             color: #2e2f42;
@@ -125,6 +125,10 @@
 
 .section2 {
     background-color: #F4F4FD;
+}
+
+.section3 {
+    background-color: ##F4F4FD;
 }
 
 .item-list-section2 {
