@@ -128,13 +128,22 @@
 }
 
 .section3 {
-    background-color: ##F4F4FD;
+    background-color: #F4F4FD;
 }
 
 .item-list-section2 {
     text-align: center;
 }
 
+.header-section3 {
+    text-transform: capitalize;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
 
 
 
