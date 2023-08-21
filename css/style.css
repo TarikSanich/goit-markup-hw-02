@@ -107,8 +107,12 @@
             color: #2e2f42;
     }
 
-    .header-3 {
-
+    .header3-h3 {
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
     }
 
     .h3-section2 {
@@ -128,12 +132,19 @@
     background-color: #F4F4FD;
 }
 
+.section2-text {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+
 .section3 {
     background-color: #F4F4FD;
 }
 
 .item-list-section2 {
     text-align: center;
+    color: #434455;
 }
 
 .header-section3 {
